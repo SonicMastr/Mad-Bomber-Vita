@@ -7,9 +7,13 @@ A PSVITA port of Bill Kendrick's [Mad Bomber](http://www.newbreedsoftware.com/ma
 
 #### Controls:
 **Left** - Move Left
+
 **Right** - Move Right
+
 **Cross** - Confirm/Fire
+
 **Start** - Pause
+
 **Select** - Escape/Exit
 
 
