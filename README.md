@@ -21,4 +21,4 @@ Thanks to [dots_tb](https://github.com/dots-tb) for helping with compiling error
 
 [Join the CBPS Discord server if you're interested in our work.](http://discord.cbps.xyz)
 
-[Join the CBPS Forums](https://forum.devchroma.nl/index.php)
+[Join the CBPS forums the get the latest updates on our releases](https://forum.devchroma.nl/index.php)
