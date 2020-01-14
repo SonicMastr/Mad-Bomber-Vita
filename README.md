@@ -1,4 +1,4 @@
-# Mad-Bomber-Vita
+# Mad Bomber Vita
 
 
 A PSVITA port of Bill Kendrick's [Mad Bomber](http://www.newbreedsoftware.com/madbomber/)
