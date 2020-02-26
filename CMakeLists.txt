@@ -57,7 +57,7 @@ target_link_libraries(${PROJECT_NAME}
   SceGxm_stub
   SceSysmodule_stub
   SceTouch_stub
-  SceHID_stub
+  SceHid_stub
 )
 
 # Create Vita artifacts
